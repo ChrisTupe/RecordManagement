@@ -120,7 +120,7 @@
             @csrf
 
             <div class="form-group">
-                <label for="email">Email Address</label>
+                <label for="email">Email</label>
                 <input 
                     type="email" 
                     id="email" 
